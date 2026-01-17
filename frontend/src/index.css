@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+a.active span[data-role='nav-underline'] {
+  display: block;
+}
