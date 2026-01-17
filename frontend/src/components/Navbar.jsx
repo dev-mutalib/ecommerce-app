@@ -85,7 +85,7 @@ const Navbar = () => {
             alt=''
           />
           <p className='absolute -right-1.25 -bottom-2.5 w-4 text-center leading-4 bg-black text-white aspect-square rounded-full text-[8px] '>
-            10
+            0
           </p>
         </Link>
         <img
